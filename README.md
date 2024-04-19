@@ -25,6 +25,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tahaburaksahin&" alt="tahaburaksahin" /></p>
 
-              - name: generate-snake-game-from-github-contribution-grid
-                uses: Platane/snk@v3.2.0
-            
+
