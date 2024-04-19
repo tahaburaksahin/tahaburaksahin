@@ -1,4 +1,4 @@
-[![MasterHead](http:https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F633387426958930%2F&psig=AOvVaw3esKeMBq2RP9THeTFY2bL7&ust=1713613988184000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJjosdibzoUDFQAAAAAdAAAAABAJ)
+
 <h1 align="center">Hi 👋, I'm Taha Burak Sahin</h1>
 <h3 align="center">A passionate frontend developer from Polan</h3>
 
