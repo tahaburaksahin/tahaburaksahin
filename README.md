@@ -1,4 +1,3 @@
-(http://media.licdn.com/dms/image/D4D16AQG6T92gjjtBKg/profile-displaybackgroundimage-shrink_350_1400/0/1674153278110?e=1687996800&v=beta&t=kBalXjsOxtLI4yiKhyCmS6hE8x-40PKWhLzPkqqIzks)
 
 <h1 align="center">Hi 👋, I'm Taha Burak Sahin</h1>
 <h3 align="center">A passionate frontend developer from Polan</h3>
