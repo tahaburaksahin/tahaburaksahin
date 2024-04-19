@@ -1,6 +1,5 @@
-
 <h1 align="center">Hi 👋, I'm Taha Burak Sahin</h1>
-<h3 align="center">A passionate frontend developer from Polan</h3>
+<h3 align="center">I'm a passionate computer science student who studies PJATK and shares my projects here</h3>
 
 - 🔭 I’m currently working on **2D Game Adventure Game**
 
@@ -24,4 +23,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tahaburaksahin&show_icons=true&locale=en" alt="tahaburaksahin" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tahaburaksahin&" alt="tahaburaksahin" /></p>
-
