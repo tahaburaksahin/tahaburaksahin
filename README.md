@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **2D Game Adventure Game**
 
-- 🌱 I’m currently learning **Android Development with course**
+- 🌱 I’m currently learning **Android Development**
 
 - 📫 How to reach me **thbrkshn@gmail.com**
 
