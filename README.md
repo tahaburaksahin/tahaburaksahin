@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Taha Burak Sahin</h1>
 <h3 align="center">A passionate student who studies PJATK and shares my projetcs here</h3>
 
-- 🔭 I’m currently working on **2D Game Adventure Game**
+- 🔭  **2D Game Adventure Game**  -- Download and play my 2d game  ---https://tahaburaksahin.itch.io/innie
 
 - 🌱 I’m currently learning **Android Development**
 
